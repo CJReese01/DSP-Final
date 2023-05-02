@@ -175,7 +175,7 @@ class DFT():
             f"Compression Factor: {inc*i+compression_factor_low: .3f}%\nAverage Compression Ratio: {average_compression_ratio:.2f}\nFiltered below: {frequency:.2f}Hz")
         plt.show()
 
-Bonk = DFT('Bonk.jpeg')
+Bonk = DFT('Green_cheeseburgersq.BMP')
 
 #Bonk.showImg()
 #Bonk.showHPFTransform(10)
